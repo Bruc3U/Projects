@@ -1,2 +1,2 @@
 # School_Projects
-Some of my impactful school project
+Some of my impactful school projects
