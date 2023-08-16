@@ -1,22 +1,40 @@
 # Welcome To My Portfolio
 Some of the impactful projects taught me a lot about the wonderful world of data. 
 
-## 📚 Projects List: 
-- [Divorce Analysis](#divorceanalysis)
-- [Titanic Tragedy Analysis](#titanictragedyanalysis)
-- [Image Recognition ML](#imageregonitionml)
-- [Steam Users Analysis](#steamusersanalysis)
-- [Iowa Liquor Sales Analysis](#iowaliquorsalesanalysis)
+## 📚 Table Of Content: 
+- [Python](#python)
+- [SQL](#sql)
+- [Power BI](#powerbi)
 
-# Divorce Analysis 
+# Python 🐍
 
-# Titanic Tragedy Analysis
+| Project Link | Completion Date | Tools | Project Description | 
+|---|---|---|---|
+| :wedding: [Divorce Analysis](link) | November 2022 | Python, Spyder | sus |
+| :statue_of_liberty: [Titanic Tragedy Analysis]() | Oct 2022 |Python, Spyder, Excel | sus2 |
+| 🍁 [Image Recognition ML]() | Nov 2022 | Python, Google Cloud | sus3 | 
+| 🎮 [Steam Users Analysis]() | Aug 2023 | Python | sus4 | 
 
-# Image Recognition with Google Cloud 
+# SQL
 
-# Steam Users Analysis 
+| Project Link | Completion Date | Tools | Project Description | 
+|---|---|---|---|
+| 🍻 [Iowa Liquor Sales Analysis]() | NA | Google Cloud, SQL | sus |
 
-# Iowa Liquor Sales Analysis 
+# Excel 
+
+| Project Link | Completion Date | Tools | Project Description | 
+|---|---|---|---|
+| 🍻 [Iowa Liquor Sales Analysis]() | NA | Google Cloud, SQL | sus |
+
+maybe put project done with SBA 
+and dashboard for chambre de c 
+
+# Power BI
+
+
+
+
 
 
 
