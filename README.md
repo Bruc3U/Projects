@@ -1,2 +1,2 @@
-# School_Projects
-Some of my impactful school projects
+# Welcome To My Portfolio
+Some of my impactful projects
