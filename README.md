@@ -4,6 +4,7 @@ Here is a list of some impactful projects I had the chance of participating in.
 ## 📚 Table Of Content: 
 - [Python](#python)
 - [SQL](#sql)
+- [Excel](#excel)
 - [Power BI](#powerbi)
 
 # Python 🐍
