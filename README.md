@@ -1,5 +1,5 @@
 # Welcome To My Portfolio
-Some of the impactful projects taught me a lot about the wonderful world of data. 
+Here is a list of some impactful projects I had the chance of participating in. 
 
 ## 📚 Table Of Content: 
 - [Python](#python)
