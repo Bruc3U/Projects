@@ -19,13 +19,13 @@ Some of the impactful projects taught me a lot about the wonderful world of data
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| 🍻 [Iowa Liquor Sales Analysis]() | NA | Google Cloud, SQL | sus |
+| 🍻 [Iowa Liquor Sales Analysis]() | NA | Google Cloud, SQL | Analysis of the majors trends of the Iowa liquor market |
 
 # Excel 
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| 🐴 [Ranch Market Research Texas]() | July 2022 | Excel | Market Research conducted for a potential motorcycle resort in Texas |
+| 🐴 [Ranch Market Research Texas]() | July 2022 | Excel | Analysis of the major market trend in the resort business in Texas |
 | 🚗 [Formula One Data Analysis]() | Dec 2021 | Excel | Analysis on more than 12 years of F1 data to try to predict the best lap time in the Austin GP of 2021 |
  
 # Power BI
