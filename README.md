@@ -27,7 +27,7 @@ Here is a list of some impactful projects I had the chance of participating in.
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
 | 🐴 [Ranch Market Research Texas]() | July. 2022 | Excel | Analysis of the major market trend in the resort business in Texas |
-| 🏁 [Formula One Data Analysis]() | Dec. 2021 | Excel | Analysis on more than 12 years of F1 data to try to predict the best lap time in the Austin GP of 2021 |
+
  
 # Power BI 📈
 
