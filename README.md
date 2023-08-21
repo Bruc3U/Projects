@@ -22,12 +22,6 @@ Here is a list of some impactful projects I had the chance of participating in.
 |---|---|---|---|
 | 🍻 [Iowa Liquor Sales Analysis]() | ⚠️ Work in progress ⚠️ | Google Cloud, SQL | Analysis of the majors trends of the Iowa liquor market |
 
-# Excel 💻
-
-| Project Link | Completion Date | Tools | Project Description | 
-|---|---|---|---|
-| 🐴 [Ranch Market Research Texas]() | July. 2022 | Excel | Analysis of the major market trend in the resort business in Texas |
-
  
 # Power BI 📈
 
