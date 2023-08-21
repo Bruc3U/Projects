@@ -12,7 +12,7 @@ Here is a list of some impactful projects I had the chance of participating in.
 |---|---|---|---|
 | :wedding: [Divorce Analysis](https://github.com/Bruc3U/Divorce_Analysis) | Nov. 2022 | Python, Spyder | This project combines diverse Machine  Learning techniques to explore the main reason for divorce in our society. |
 | :statue_of_liberty: [Titanic Tragedy Analysis](https://github.com/Bruc3U/Titanic_analysis) | Oct. 2022 |Python, Spyder, Excel | The goal of this exercise is to compute the survival rates of the Titanic passengers according to the given data. |
-| 🍁 [Image Recognition ML]() | Nov. 2022 | Python, Google Cloud (ML, Big Query) | Is Machine Learning affordable for small businesses? The goal of this project was to engineer an image recognition model thanks to Google Cloud's tools. | 
+| 🍁 [Image Recognition ML](https://github.com/Bruc3U/Flower_project) | Nov. 2022 | Python, Google Cloud (ML, Big Query) | Is Machine Learning affordable for small businesses? The goal of this project was to engineer an image recognition model thanks to Google Cloud's tools. | 
 | 🎮 [Steam Users Analysis]() | ⚠️ Work in progress ⚠️ | Python | This project was one of my favorite. After drawing the data from the Steam API, I concluded several analyses on the Steam user count, country of origin, and activity | 
 
 # SQL 📊
