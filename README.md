@@ -26,7 +26,7 @@ Here is a list of some impactful projects I had the chance of participating in.
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| 🗽 [Dashboard Titanic Project]() | Oct. 2022 | Power BI | This dashboard illustrates the findings on the Titanic Dataset |
+| 🗽 [Dashboard Titanic Project](https://github.com/Bruc3U/Titanic_analysis/blob/main/dashboard_titanic_pdf.pdf) | Oct. 2022 | Power BI | This dashboard illustrates the findings on the Titanic Dataset |
 
 
 
