@@ -19,7 +19,7 @@ Here is a list of some impactful projects I had the chance of participating in.
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| 🍻 [Iowa Liquor Sales Analysis]() | ⚠️ Work in progress ⚠️ | Google Cloud, SQL | Analysis of the majors trends of the Iowa liquor market |
+| 🍻 [Iowa Liquor Sales Analysis](https://github.com/Bruc3U/Iowa_liquor_sale_analysis) | ⚠️ Work in progress ⚠️ | Google Cloud, SQL | Analysis of the majors trends of the Iowa liquor market |
 
  
 # Power BI 📈
