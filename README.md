@@ -5,6 +5,7 @@ Here is a list of some impactful projects I had the chance of participating in.
 - [Python](#python)
 - [SQL](#sql)
 - [Power BI](#powerbi)
+- [Tableau](#tableau)
 
 # Python 🐍
 
