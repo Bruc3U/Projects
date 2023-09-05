@@ -20,7 +20,7 @@ Here is a list of some impactful projects I had the chance to participate in.
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| 🍻 [Iowa Liquor Sales Analysis](https://github.com/Bruc3U/Iowa_liquor_sale_analysis) | Sept.2023 | Google Cloud Big Query, SQL, Excel | Analysis of the major trends of the Iowa liquor market during the pandemic. |
+| 🍻 [Iowa Liquor Sales Analysis](https://github.com/Bruc3U/Iowa_liquor_sale_analysis) | Sept. 2023 | Google Cloud Big Query, SQL, Excel | Analysis of the major trends of the Iowa liquor market during the pandemic. |
 
  
 # Power BI 📈
@@ -28,7 +28,7 @@ Here is a list of some impactful projects I had the chance to participate in.
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
 | 🗽 [Dashboard Titanic Project](https://github.com/Bruc3U/Titanic_analysis/blob/main/dashboard_titanic_pdf.pdf) | Oct. 2022 | Power BI | This dashboard illustrates the findings on the Titanic Dataset |
-| 🍻 [Iowa Liquor Sales Analysis](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/blob/main/Dashboard_iowa_liquor.png) | Sept.2023 | Google Cloud Big Query, SQL, Excel | Dashboard summarizing our findings in the Sale Analysis.  |
+| 🍻 [Iowa Liquor Sales Analysis](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/blob/main/Dashboard_iowa_liquor.png) | Sept. 2023 | Google Cloud Big Query, SQL, Excel | Dashboard summarizing our findings in the Sale Analysis.  |
 
 
 # Tableau 💻
