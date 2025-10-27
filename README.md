@@ -1,37 +1,44 @@
 # Welcome To My Portfolio
-Here is a list of some impactful projects I had the chance to participate in. 
 
-## 📚 Table Of Content: 
-- [Python](#python)
-- [SQL](#sql)
-- [Power BI](#powerbi)
-- [Tableau](#tableau)
+My projects demonstrate a broad range of skills, from foundational Data Analytics, through predictive Data Science, to full-scale Data Engineering and machine learning pipelines.
 
-# Python 🐍
 
-| Project Link | Completion Date | Tools | Project Description | 
-|---|---|---|---|
-| :wedding: [Divorce Analysis](https://github.com/Bruc3U/Divorce_Analysis) | Nov. 2022 | Python, Spyder | This project combines diverse Machine  Learning techniques to explore the main reason for divorce in our society. |
-| :statue_of_liberty: [Titanic Tragedy Analysis](https://github.com/Bruc3U/Titanic_analysis) | Oct. 2022 |Python, Spyder, Excel, Power BI | The goal of this exercise is to compute the survival rates of the Titanic passengers according to the given data. |
-| 🍁 [Image Recognition ML](https://github.com/Bruc3U/Flower_project) | Nov. 2022 | Python, Google Cloud, Excel | Is Machine Learning affordable for small businesses? The goal of this project was to engineer an image recognition model thanks to Google Cloud's tools. | 
-| 🎮 [Steam Users Analysis]() | ⚠️ Work in progress ⚠️ | Python | This project was one of my favorite. After drawing the data from the Steam API, I concluded several analyses on the Steam user count, country of origin, and activity | 
+## 📚 Table Of Contents
+- [Data Analytics](#1️⃣-data-analytics)
+- [Data Science / Machine Learning](#2️⃣-data-science--machine-learning)
+- [Data Engineering](#3️⃣-data-engineering)
 
-# SQL 📊
+---
+
+# 1️⃣ Data Analytics 
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| 🍻 [Iowa Liquor Sales Analysis](https://github.com/Bruc3U/Iowa_liquor_sale_analysis) | Sept. 2023 | Google Cloud Big Query, SQL, Excel | Analysis of the major trends of the Iowa liquor market during the pandemic. |
+| 🍻 [Iowa Liquor Sales Analysis](https://github.com/Bruc3U/Iowa_liquor_sale_analysis) | Sept. 2023 | SQL, Google Cloud BigQuery, Excel | Analysis of the major trends in the Iowa liquor market during the pandemic, including dashboards summarizing key insights. |
 
- 
-# Power BI 📈
+---
+
+# 2️⃣ Data Science / Machine Learning
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| 🗽 [Dashboard Titanic Project](https://github.com/Bruc3U/Titanic_analysis/blob/main/dashboard_titanic_pdf.pdf) | Oct. 2022 | Power BI | This dashboard illustrates the findings on the Titanic Dataset |
-| 🍻 [Iowa Liquor Sales Analysis](https://github.com/Bruc3U/Iowa_liquor_sale_analysis/blob/main/Dashboard_iowa_liquor.png) | Sept. 2023 | Google Cloud Big Query, SQL, Excel | Dashboard summarizing our findings in the Sale Analysis.  |
+| :wedding: [Divorce Analysis](https://github.com/Bruc3U/Divorce_Analysis) | Nov. 2022 | Python, Spyder, scikit-learn | Predictive ML project exploring main factors contributing to divorce in society. |
+| :statue_of_liberty: [Titanic Tragedy Analysis](https://github.com/Bruc3U/Titanic_analysis) | Oct. 2022 | Python, Spyder, Excel, Power BI | Predicting passenger survival rates using ML techniques and analyzing key contributing factors. |
+| 🍁 [Image Recognition ML](https://github.com/Bruc3U/Flower_project) | Nov. 2022 | Python, PyTorch, Google Cloud | Built an image recognition model to explore ML feasibility for small businesses. |
+
+---
+
+# 3️⃣ Data Engineering 
+
+| Project Link | Completion Date | Tools | Project Description | 
+|---|---|---|---|
+| 🎮 [Steam Users Analysis](link) | WIP | Python, Airflow, GCP | Flagship project: ETL pipeline from Steam API, transforming and analyzing user data by country, with ML-ready datasets for predictive analysis. |
 
 
-# Tableau 💻
+
+
+
+
 
 
 
