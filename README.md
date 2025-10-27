@@ -14,7 +14,7 @@ My projects demonstrate a broad range of skills, from foundational Data Analytic
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| 🍻 [Iowa Liquor Sales Analysis](https://github.com/Bruc3U/Iowa_liquor_sale_analysis) | Sept. 2023 | SQL, Google Cloud BigQuery, Excel | Analysis of the major trends in the Iowa liquor market during the pandemic, including dashboards summarizing key insights. |
+| 🍻 [Iowa Liquor Sales Analysis](https://github.com/Bruc3U/Iowa_liquor_sale_analysis) | Sept. 2023 | SQL, Google Cloud, BigQuery | Analysis of the major trends in the Iowa liquor market during the pandemic, including dashboards summarizing key insights. |
 
 ---
 
@@ -22,8 +22,8 @@ My projects demonstrate a broad range of skills, from foundational Data Analytic
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| :wedding: [Divorce Analysis](https://github.com/Bruc3U/Divorce_Analysis) | Nov. 2022 | Python, Spyder, scikit-learn | Predictive ML project exploring main factors contributing to divorce in society. |
-| :statue_of_liberty: [Titanic Tragedy Analysis](https://github.com/Bruc3U/Titanic_analysis) | Oct. 2022 | Python, Spyder, Excel, Power BI | Predicting passenger survival rates using ML techniques and analyzing key contributing factors. |
+| :wedding: [Divorce Analysis](https://github.com/Bruc3U/Divorce_Analysis) | Nov. 2022 | Pandas, Numpy, Scikit-Learn, Stats-Model | Predictive ML project exploring main factors contributing to divorce in society. |
+| :statue_of_liberty: [Titanic Tragedy Analysis](https://github.com/Bruc3U/Titanic_analysis) | Oct. 2022 | Pandas, Numpy, Scikit-Learn, Stats-Model, Power BI | Predicting passenger survival rates using ML techniques and analyzing key contributing factors. |
 | 🍁 [Image Recognition ML](https://github.com/Bruc3U/Flower_project) | Nov. 2022 | Python, PyTorch, Google Cloud | Built an image recognition model to explore ML feasibility for small businesses. |
 
 ---
