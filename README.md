@@ -32,7 +32,7 @@ My projects demonstrate a broad range of skills, from foundational Data Analytic
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| 🎮 [Steam Users Analysis](https://github.com/Bruc3U/Steam-API-Project) | WIP | Python, Airflow, GCP | Flagship project: ETL pipeline from Steam API, transforming and analyzing user data by country, with ML-ready datasets for predictive analysis. |
+| 🎮 [Steam Users Analysis](https://github.com/Bruc3U/Steam_API) | WIP | Python, Airflow, GCP | Flagship project: ETL pipeline from Steam API, transforming and analyzing user data by country, with ML-ready datasets for predictive analysis. |
 
 
 
